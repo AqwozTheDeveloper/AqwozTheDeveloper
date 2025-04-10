@@ -18,7 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=yellow)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
