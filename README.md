@@ -8,8 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 I love experimenting with **code**, from building **game mechanics** to crafting **custom languages**
-- 🧩 Currently working on unique systems in **Roblox Studio**
+- 💻 I love experimenting with **code**, from building **Ai intelligence** to **Building game hacks!**
 - 🔧 I enjoy tinkering with **interpreters**, **editors**, and backend tools
 - 🌀 Always open to learning and trying new tech
 
@@ -37,5 +36,5 @@
 
 ---
 
-> *“Code is not just logic — it's expression.”*  
-> — Aqwoz
+> *“Just relax and code bro. It's not a big deal.”*  
+
